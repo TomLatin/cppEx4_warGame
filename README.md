@@ -1,3 +1,5 @@
+![ERD with colored entities (UML notation)](https://user-images.githubusercontent.com/57855070/85012354-92290400-b16b-11ea-81f2-3f75cf8e4e74.png)
+
 <div dir="rtl" lang="he">
 
 # משחק מלחמה - שלב א
