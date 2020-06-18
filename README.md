@@ -1,4 +1,6 @@
-![ERD with colored entities (UML notation)](https://user-images.githubusercontent.com/57855070/85012354-92290400-b16b-11ea-81f2-3f75cf8e4e74.png)
+
+![ERD with colored entities (UML notation) (1)](https://user-images.githubusercontent.com/57855070/85012447-b389f000-b16b-11ea-9b6e-43cfd161db56.png)
+
 
 <div dir="rtl" lang="he">
 
